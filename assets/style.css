@@ -131,3 +131,10 @@ header nav {
   width: 900px;
   height: 300px;
 }
+.picture-2,
+.picture-3,
+.picture-4,
+.picture-5 {
+  width: 500px;
+  height: 70px;
+}
