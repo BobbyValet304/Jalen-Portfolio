@@ -106,3 +106,9 @@ header nav {
   height: 70px;
   width: 40%;
 }
+.headshot {
+  display: flex;
+  width: 25%;
+  height: 25%;
+  margin: 10px;
+}
