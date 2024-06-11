@@ -81,13 +81,28 @@ header nav {
   border: green 1px solid;
   margin: 10px;
   justify-content: space-evenly;
-  align-items: end;
+  align-items: flex-start;
   height: 350px;
 }
 
 .projects-container {
   display: flex;
-
+  flex-flow: wrap;
+  justify-content: space-evenly;
+  align-items: center;
   border: blue 1px solid;
   margin: 10px;
+  height: 200px;
+}
+
+.project-two,
+.project-three,
+.project-four,
+.project-five {
+  display: flex;
+  justify-content: space-evenly;
+  border: black 1px solid;
+  margin: 10px;
+  height: 70px;
+  width: 40%;
 }
