@@ -1,1 +1,3 @@
 # Jalen-Portfolio
+
+The project was motivated by my desire to show all potential employers my portfolio of work and accurately represent my coding ability. I built this portfolio to illustrate my projects in one concise webpage so that I could quickly be assessed. This portfolio solves the problem of having to comb through my Github in order to estimate my competence. I have improved immensely throughout the course of the construction of this project in responsive design, media queries, flexbox placement, and flexbox layout. This is a passion project that stands out due to the body of work in which it carries.
